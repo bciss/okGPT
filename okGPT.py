@@ -1,7 +1,7 @@
 import openai
 
 # Set up your OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = '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'
 
 # Function to interact with ChatGPT
 def chat_with_gpt(prompt):
